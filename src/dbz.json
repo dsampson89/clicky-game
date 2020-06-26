@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Goku",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/deathbattle/images/d/d7/Goku_go.png/revision/latest/scale-to-width-down/340?cb=20180521005115"
+  },
+  {
+    "id": 2,
+    "name": "Vegeta",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/p__/images/d/df/Super_Vegeta.png/revision/latest?cb=20190820174213&path-prefix=protagonist"
+  },
+  {
+    "id": 3,
+    "name": "Gohan",
+    "clicked": false,
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/ddmjuhn-d96f723c-2abf-4a03-ae6d-9f3c034a043c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvODRkYzEzYjctYTJlNy00YjQ1LTgzZWMtMzExZTcyZTgyOTAwXC9kZG1qdWhuLWQ5NmY3MjNjLTJhYmYtNGEwMy1hZTZkLTlmM2MwMzRhMDQzYy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.gZi-g8eJWodgpu5c-mjN5i1pns0HUE9vYgO26oZPPjg"
+  },
+  {
+    "id": 4,
+    "name": "Android18",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/villains/images/d/da/DBFZ_Android18_Portrait.png/revision/latest/top-crop/width/360/height/450?cb=20190329061418"
+  },
+  {
+    "id": 5,
+    "name": "Majin Buu",
+    "clicked": false,
+    "image": "https://i.pinimg.com/originals/01/be/ee/01beeef3e8a67c7e83e4007e6cb10938.png"
+  },
+  {
+    "id": 6,
+    "name": "Cell",
+    "clicked": false,
+    "image": "https://toppng.com/uploads/preview/cell-dragon-ball-z-cell-11562918270z3v6za2dlh.png"
+  },
+  {
+    "id": 7,
+    "name": "Frieza",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/universaldragonball/images/6/6d/5A9B3D07-0887-4D9C-9A5A-214D1A569543.png/revision/latest/top-crop/width/360/height/450?cb=20180423005813"
+  },
+  {
+    "id": 8,
+    "name": "Goten",
+    "clicked": false,
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_medium/1/14431/5735888-7923614686-816f7.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Krillin",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/bnhaff/images/1/18/Ddmju9h-915eafc1-bca9-4441-8d33-6f031d5d983a.png/revision/latest?cb=20200216223327"
+  },
+  {
+    "id": 10,
+    "name": "Piccolo",
+    "clicked": false,
+    "image": "https://www.vhv.rs/dpng/d/417-4175492_piccolo-dbz-png-dragon-ball-fighterz-piccolo-transparent.png"
+  },
+  {
+    "id": 11,
+    "name": "Master Roshi",
+    "clicked": false,
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_medium/1/14431/5732451-8397948238-maste.png"
+  },
+  {
+    "id": 12,
+    "name": "Trunks",
+    "clicked": false,
+    "image": "https://i.pinimg.com/originals/49/53/13/495313a1ed4c6626e743cee8ae6ba994.png"
+  }
+]
