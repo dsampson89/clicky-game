@@ -1,6 +1,10 @@
 .mainContainer {
     padding: 0; 
     background-color: rgba(0, 0, 0, 0.03);
+    background-image: url("https://external-preview.redd.it/ja2rwASy69ySlG3q_Brb8RhD7Sq2gzUEqSxxAbomVS8.png?width=960&crop=smart&auto=webp&s=1e78224f495bc8f1e436889cfd350e6438b513da");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     min-height: 100vh;
     padding-bottom: 100px;
     }

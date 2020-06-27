@@ -1,7 +1,7 @@
 import React from "react";
 import Jumbotron from "./components/Jumbotron";
 import MainGameContainer from "./components/MainGameContainer";
-import "./index.css";
+import "./App.css";
 
 
 const App = () => (
